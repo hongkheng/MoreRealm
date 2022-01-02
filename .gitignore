@@ -58,3 +58,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# Android release build
+/android/app/release/**
+/android/app/debug.keystore
